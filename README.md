@@ -1,4 +1,4 @@
-###📊 Machine Learning GUI Project (Streamlit App)
+## 📊 Machine Learning GUI Project (Streamlit App)
 
 This project is an interactive Machine Learning GUI application built using Streamlit.
 It allows users to upload datasets and perform end-to-end machine learning workflows without writing code.
